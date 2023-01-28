@@ -3,8 +3,8 @@
 
 At Imagication, students are able to:
 
-*Roam the campus
-*Interact and engage with their surroundings
-*Communicate with prospective or current college students
+* Roam the campus
+* Interact and engage with their surroundings
+* Communicate with prospective or current college students
 
 ![Imagication Logo](/coloredphoenix-6.png)
