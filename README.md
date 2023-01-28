@@ -7,4 +7,6 @@ At Imagication, students are able to:
 * Interact and engage with their surroundings
 * Communicate with prospective or current college students
 
+![](https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/imagication.gif)
+
 ![Imagication Logo](/coloredphoenix-6.png)
