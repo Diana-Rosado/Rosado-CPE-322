@@ -13,7 +13,7 @@ $ gtkwave ha.vcd
 ```
 I produced the following screenshot
 
-<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/HD_SH.png" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab1/HD_SH.png" width="800" height="400">
 
 
 Initially, I could not see the entire view of the wave. To fix this, I had to zoom out using the keys Command + minus symbol. I also changed the increments to use nanoseconds (ns) instead of femtoseconds (fs).
@@ -31,6 +31,6 @@ $ gtkwave dff.vcd
 ```
 I produced the following screenshot
 
-<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/DFF_SH.png" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab1/DFF_SH.png" width="800" height="400">
 
 A D Flip Flop delays the state of the output signal until the next input signal occurs.
