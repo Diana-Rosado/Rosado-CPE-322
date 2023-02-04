@@ -1,6 +1,6 @@
 ## Lab 1
 
-I pledge my honor that I have abided by the Stevens Honor System
+I pledge my honor that I have abided by the Stevens Honor System - Diana Rosado
 
 #### Half Adder
 After running the following commands:
@@ -9,12 +9,12 @@ $ ghdl -a ha.vhdl
 $ ghdl -a ha_tb.vhdl
 $ ghdl -e ha_tb
 $ ghdl -r ha_tb --vcd=ha.vcd
-ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test
 $ gtkwave ha.vcd
 ```
 I produced the following screenshot
 
-![Half Adder Screen Shot](/HD_SH.png)
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/HD_SH.png" width="800" height="400">
+
 
 Initially, I could not see the entire view of the wave. To fix this, I had to zoom out using the keys Command + minus symbol. I also changed the increments to use nanoseconds (ns) instead of femtoseconds (fs).
 
@@ -31,4 +31,6 @@ $ gtkwave dff.vcd
 ```
 I produced the following screenshot
 
-![D Flip Flop Screen Shot](/DFF_SH.png)
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/DFF_SH.png" width="800" height="400">
+
+A D Flip Flop delays the state of the output signal until the next input signal occurs.
