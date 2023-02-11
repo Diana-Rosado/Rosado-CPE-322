@@ -11,7 +11,7 @@ $ env
 $ ps
 $ pwd
 ```
-<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/host2pwd.png" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/host2pwd.png" width="1000" height="400">
 
 ```
 $ git clone https://github.com/kevinwlu/iot.git
@@ -20,7 +20,7 @@ $ ls
 $ cd
 $ df
 ```
-<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/clone2df.png" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/clone2df.png" width="1000" height="400">
 
 ```
 $ mkdir demo
@@ -42,7 +42,7 @@ $clear
 $man uname
 ```
 
-<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/man%20uname.png" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/man%20uname.png" width="1000" height="400">
 
 ```
 $uname -a
