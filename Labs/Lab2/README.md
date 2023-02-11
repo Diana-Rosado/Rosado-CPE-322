@@ -11,7 +11,7 @@ $ env
 $ ps
 $ pwd
 ```
-<img src="x" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/host2pwd.png" width="800" height="400">
 
 ```
 $ git clone https://github.com/kevinwlu/iot.git
@@ -20,7 +20,7 @@ $ ls
 $ cd
 $ df
 ```
-<img src="x" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/clone2df.png" width="800" height="400">
 
 ```
 $ mkdir demo
@@ -31,27 +31,29 @@ $ cp file file1
 $ mv file file2
 $ rm file2
 ```
-<img src="x" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/demo.png" width="800" height="400">
 
 ```
 $clear
 ```
-<img src="x" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/demo.png" width="800" height="400">
 
 ```
 $man uname
 ```
 
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/man%20uname.png" width="800" height="400">
+
 ```
 $uname -a
 $ifconfig
 ```
-<img src="x" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/uname-a.png" width="800" height="400">
 
 ```
 $ ping localhost
 $ netstat
 ```
-<img src="x" width="800" height="400">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab2/ping2netstat.png" width="800" height="400">
 
 
