@@ -1,4 +1,4 @@
-## Lab 1
+## Lab 2
 
 I pledge my honor that I have abided by the Stevens Honor System - Diana Rosado
 
