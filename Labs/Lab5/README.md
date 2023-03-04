@@ -4,7 +4,7 @@ I pledge my honor that I have abided by the Stevens Honor System - Diana Rosado
 
 ### Changed directory to iot repo, update repo with git pull, change directory to lesson 5
 
-<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab6/update.png" width="800" height="600">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab5/update.png" width="800" height="300">
 
 ### Install Paho and run code to subscribe on one terminal and publish on another
 
@@ -27,6 +27,6 @@ Terminal 3
 $ python3 pubcpu.py
 ```
 
-<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab5/twoterminals.png" width="800" height="600">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab5/twoterminals.png" width="800" height="300">
 
 
