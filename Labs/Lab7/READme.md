@@ -14,7 +14,7 @@ Below is running the thingspeak_feed.py
 
 Below are the graphs produced from the python file
 
-<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab7/thingspeak_graph.png" width="800" height="600">
+<img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab7/thingspeak_graph.png" width="800" height="400">
 
 ### Good Cloud
 
@@ -27,4 +27,4 @@ Below is the spreadsheet
 
 <img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab7/googlecloud_sh.png" width="800" height="600">
 
-Click here to view the spreadsheet
+Click [here](https://docs.google.com/spreadsheets/d/17iZG_TQ2rVs6t3_SQG8uT75fWtglnj-k3M8olTTw94g/edit#gid=0) to view the spreadsheet
