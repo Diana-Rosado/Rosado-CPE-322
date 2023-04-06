@@ -18,7 +18,7 @@ $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereo
 $ cat intrusiondetection.uml
 $ python3 -m plantuml intrusiondetection.uml
 ```
-Intrusiondetection.yin and intrusiondetection.uml was generated
+Intrusiondetection.yin and intrusiondetection.uml was generated.
 After running PlantUML, intrusiondetection.png was generated
 
 <img src="https://github.com/Diana-Rosado/Rosado-CPE-322/blob/main/Labs/Lab9/intrusiondetection.png" width="800" height="600">
